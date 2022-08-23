@@ -21,7 +21,7 @@
 ## Work Experience:
 #### 1. [MSME Puri Utami](https://www.instagram.com/puriutami_mukena/) | IT Staff | Bandung `Jan'2022 - July 2022`
    - Creating web-based applications for marketing and financial management, reporting cash in and out, managing every online sales transaction, handling payments using a Payment Gateway, and generating financial report records. 
-#### 2. [BPR Bank Surya Yudhat](https://suryayudha.id/) | Financial Staff | Purbalingga `July'2017 - Dec 2017` 
+#### 2. [BPR Bank Surya Yudha](https://suryayudha.id/) | Financial Staff | Purbalingga `July'2017 - Dec 2017` 
    - Make a report.
    - Creating letters, Archiving.
    - Serving customers who will make payments for electricity, tap water, cash deposits, and cash withdrawals.
